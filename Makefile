@@ -1,4 +1,5 @@
 infra:
-     git pull
-     terraform init
-     terraform apply -auto-approve
+	git pull
+	terraform init
+	terraform apply -auto-approve
+#code
