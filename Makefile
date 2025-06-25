@@ -1,4 +1,4 @@
-infra:
+00infra:
 	git pull
 	terraform init
 	terraform apply -auto-approve
